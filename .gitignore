@@ -1,6 +1,1 @@
-# Данные для подключения к PostgreSQL
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=fastapi_db
-DB_USER=postgres
-DB_PASS=your_secure_password_here # Замените на ваш пароль от PostgreSQL
+
